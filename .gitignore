@@ -1,5 +1,7 @@
 # Markdown 파일
 *.md
+# README.md는 예외 (프로젝트 문서이므로 커밋 필요)
+!README.md
 
 # CSV 파일
 *.csv
