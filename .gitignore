@@ -1,0 +1,55 @@
+# Markdown 파일
+*.md
+
+# CSV 파일
+*.csv
+
+# PDF 파일
+*.pdf
+
+# Python 관련
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 가상 환경
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 환경 변수
+.env
+.env.local
+
+# 로그 파일
+*.log
+
+# 운영체제
+.DS_Store
+Thumbs.db
+
